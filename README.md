@@ -8,7 +8,7 @@ First, the user's webcam is used to get the dimensions that would appropriately 
 <br>
 <h1>Display</h1>
 Here are some examples of the Body Segmentation.
-<img width="950" alt="nan" src="https://user-images.githubusercontent.com/82355510/129764354-92aeb821-6b16-4dd1-b6f6-abd863660609.PNG">
+<img style ="filter: drop-shadow(0 0 30px #333);"width="950" alt="nan" src="https://user-images.githubusercontent.com/82355510/129764354-92aeb821-6b16-4dd1-b6f6-abd863660609.PNG" >
 <br>
 Here is another example with more body parts.
 <br>
